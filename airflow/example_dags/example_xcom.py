@@ -29,7 +29,7 @@ dag = DAG(
     tags=['example']
 )
 
-#values
+#array values
 value_1 = [1, 2, 3]
 value_2 = {'a': 'b'}
 
